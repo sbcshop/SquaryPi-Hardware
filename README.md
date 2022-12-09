@@ -7,8 +7,8 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 ## Repository Contents
 
 * **/Documents** - This directory contains Datasheets of the components
-* /Design Data - This directory contains Schematic and Dimension files
-* /Mecahnical Data - This directory contains 3D and STEP files
+* **/Design Data** - This directory contains Schematic and Dimension files
+* **/Mecahnical Data** - This directory contains 3D and STEP files
 
 ## Documentation
 
