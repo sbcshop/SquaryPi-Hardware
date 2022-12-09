@@ -13,12 +13,11 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 ## Documentation
 
 * [SquaryPi Software](https://github.com/sbcshop/SquaryPi)
-* [RaspberryPi PICO Getting Started with Micropython]()
-* [RaspberryPi PICO Official website]
-* [RP2040 Datasheet]
-* [PICO Datasheet]
-* [RP2040 Hardware Design]
-* [PICO Pinouts]
-* [RaspberryPi Pinouts]
+* [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 * 
 * 
