@@ -35,5 +35,6 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
 
 Please contact [support@sb-components.co.uk](support@sb-components.co.uk) for technical support.
-
-<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300" width="600" />
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
+</p>
