@@ -7,8 +7,8 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 ## Repository Contents
 
 * [**/Documents**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* **/Design Data** - This directory contains Schematic and Dimension files
-* **/Mecahnical Data** - This directory contains 3D and STEP files
+* [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
+* [**/Mecahnical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
@@ -25,6 +25,10 @@ SquaryPi is a square LCD display based on the RP2040, with a tiny and attractive
 * [SquaryFi](https://shop.sb-components.co.uk/collections/raspberry-pi-pico/products/squary?variant=40443840921683) - ESP8266-12E version of SquaryPi
 
  ![SquaryFi](https://cdn.shopify.com/s/files/1/1217/2104/products/2_12d19ffa-bcda-47bf-8ea9-bb76fc40aee3.png?v=1670307456&width=300)
+ 
+ * [Roundy](https://shop.sb-components.co.uk/products/roundy?variant=39785171681363) - 1.28" Round LCD version based on ESP8266 and RP2040
+ 
+ ![Roundy](https://cdn.shopify.com/s/files/1/1217/2104/products/roundypi.png?v=1650457581&width=300)
 
 ## Product License
 
